@@ -1,3 +1,9 @@
+# Rust dirs
+*_rust/
+
+# Ruff cache
+*ruff_cache/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
